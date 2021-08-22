@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hey! I'm Lawrence 👋
 
+I'm a Data Scientist currently based in beautiful Vancouver, Canada. 
 <!--
 **lawrencechim/lawrencechim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
